@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Yaninna Sosa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+de+control+de+calidad+junior;Software+Testing&center=true&width=500&height=50"></a>
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Analista+de+control+de+calidad+junior;Software+Testing&center=true&width=500&height=50&color=FFC0CB">
+  </a>
 </p>
 <hr/>
 Soy estudiante de 4° año de Ingeniería Informática con interés en el área de QA y Calidad de Software. Me encuentro desarrollando habilidades en testing manual, API Testing y reporte de defectos, aplicando buenas prácticas de aseguramiento de calidad durante el ciclo de vida del software. 
