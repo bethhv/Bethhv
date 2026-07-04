@@ -5,7 +5,7 @@
   </a>
 </p>
 <hr/>
-Soy estudiante de 4° año de Ingeniería Informática con interés en el área de QA y Calidad de Software. Me encuentro desarrollando habilidades en testing manual, API Testing y reporte de defectos, aplicando buenas prácticas de aseguramiento de calidad durante el ciclo de vida del software. 
+Estudiante de 4° año de Ingeniería Informática con interés en QA y Calidad de Software. Actualmente desarrollo habilidades en testing manual, API Testing y reporte de defectos utilizando herramientas como Jira, Postman y SQL.
 
 ### QA & Testing
 
@@ -26,7 +26,7 @@ Soy estudiante de 4° año de Ingeniería Informática con interés en el área 
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-###  Lenguajes
+###  Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
