@@ -26,7 +26,7 @@ Soy estudiante de 4° año de Ingeniería Informática con interés en el área 
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-###  Programming
+###  Lenguajes
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
