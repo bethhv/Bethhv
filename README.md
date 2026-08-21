@@ -39,7 +39,7 @@ Estudiante de 4° año de Ingeniería Informática con interés en QA y Calidad 
 ### Contact Me
 
 <p align="center">
-  <a href="mailto:yaninnasosa@gmail.com">
+  <a href="mailto:yannisosa348@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yaninna-sosa-5b754b345/">
